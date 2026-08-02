@@ -119,12 +119,13 @@ Designed an interactive two-page dashboard with dynamic filters, KPI cards, char
 
 ## Dashboard 1 – Customer Report
 
-> <img width="590" height="332" alt="Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/0e1a681c-9775-4a0c-bd71-dd91a3d4f90f" />
+> <img width="659" height="365" alt="Dashboard_Screenshot_1" src="https://github.com/user-attachments/assets/8e0df50c-8987-406e-b8ad-e60a09144566" />
+
 
 
 ## Dashboard 2 – Transaction Report
 
-> <img width="606" height="330" alt="Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/e3767ac7-1970-460d-98a8-40c8a9fb3e10" />
+> <img width="638" height="359" alt="Dashboard_Screenshot_2" src="https://github.com/user-attachments/assets/968ed087-559b-41df-8555-163a683b2dca" />
 
 
 # 🔮 Future Improvements
